@@ -1,0 +1,17 @@
+body {
+    background-color: 996699}
+
+.stripe {
+    width: 97vw; 
+    height: 49vh;
+    position: relative;
+}
+.label {
+   left: 50%;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-size: 24px;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translate(-50%);
+    transform: translate(-50%);
+}
